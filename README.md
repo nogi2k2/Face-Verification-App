@@ -26,12 +26,12 @@ A face verification system that utilizes a Siamese Neural Network architecture t
 ## Project Structure
 
 ```
-├── siamese_recognizer.ipynb          # Model training: data collection, preprocessing, training pipeline
+├── siamese_recognizer.ipynb       # Model training: data collection, preprocessing, training pipeline
 ├── cs_objects.py                  # Custom TensorFlow layer for L1 distance calculation
 ├── face_ver.py                    # Kivy GUI: webcam integration and real-time face verification
 ├── application_data/
 │   ├── input_image/               # Stores the webcam snapshot to verify
-│   └── verification_images/      # Pre-registered images to match against
+│   └── verification_images/       # Pre-registered images to match against
 ├── data/
 │   ├── anchor/
 │   ├── positive/

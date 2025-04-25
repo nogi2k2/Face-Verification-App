@@ -96,7 +96,7 @@ This project leverages a Siamese Neural Network trained to differentiate between
 
 1. **Clone the repository**
 ```
-    $ git clone https://github.com/nogi2k2/Whispr.git
+    $ git clone https://github.com/nogi2k2/Whispr.git](https://github.com/nogi2k2/Face-Verification-App.git
 ```
 
 2. **Navigate into the project directory**
